@@ -1,3 +1,8 @@
+![CI](https://github.com/sreeja31-arha/Finance_AI-_API/actions/workflows/ci.yml/badge.svg)
+
+
+
+
 # AI Expense Categorizer API
 
 A REST API that takes a transaction description and predicts the expense category using machine learning.
